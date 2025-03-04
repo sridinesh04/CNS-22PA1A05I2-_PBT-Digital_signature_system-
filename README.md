@@ -33,9 +33,9 @@ The program generates a digital signature and saves it.
 Choose "2️⃣ Verify a Signature"
 Enter the original message.
 The program checks if the signature is valid.
-
-![Screenshot 2025-03-04 191716](https://github.com/user-attachments/assets/bab38c02-f545-4555-8ed1-feb21f95b5d5)
-![Screenshot 2025-03-04 192001](https://github.com/user-attachments/assets/4e0f58c3-e051-4743-8165-381cba847a32)
+![Screenshot 2025-03-04 191658](https://github.com/user-attachments/assets/68dbd21d-8d2b-44ed-a6fe-228c6c014cb5)
 
 
 
+
+![Screenshot 2025-03-04 192001](https://github.com/user-attachments/assets/e5a6495f-e377-443a-8867-13c815fcf593)
