@@ -34,7 +34,8 @@ Choose "2️⃣ Verify a Signature"
 Enter the original message.
 The program checks if the signature is valid.
 
-![Screenshot 2025-03-04 190003](https://github.com/user-attachments/assets/1d0c5c36-0295-4fb0-a49b-073d04a4f6cb)
-![Screenshot 2025-03-04 190027](https://github.com/user-attachments/assets/0efdd518-8f54-423b-bc60-d4fbc5268640)
+![Screenshot 2025-03-04 191716](https://github.com/user-attachments/assets/bab38c02-f545-4555-8ed1-feb21f95b5d5)
+![Screenshot 2025-03-04 192001](https://github.com/user-attachments/assets/4e0f58c3-e051-4743-8165-381cba847a32)
+
 
 
